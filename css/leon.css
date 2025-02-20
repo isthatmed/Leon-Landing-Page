@@ -160,7 +160,7 @@ body {
 /* End Header */
 /* Start landing section */
 .landing {
-   background-color: red;
+  background-color: red;
   background-size: cover;
   height: calc(100vh - 64px);
   position: relative;
